@@ -2,6 +2,7 @@ __pycache__/
 *.pt
 *.jpg
 *.png
+!assets/*.png
 *.log
 .DS_Store
 *.ipynb_checkpoints
