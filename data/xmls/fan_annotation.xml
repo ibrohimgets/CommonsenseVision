@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>50866eba-9f47-428d-bb68-99d08423b1c8.png</filename>
+    <path>/mnt/data/50866eba-9f47-428d-bb68-99d08423b1c8.png</path>
+    <size>
+        <width>422</width>
+        <height>666</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fan</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>80</xmin>
+            <ymin>100</ymin>
+            <xmax>340</xmax>
+            <ymax>610</ymax>
+        </bndbox>
+    </object>
+</annotation>

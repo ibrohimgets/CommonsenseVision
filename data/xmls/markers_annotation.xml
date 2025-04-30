@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>7572e6da-02be-4670-9b8e-b1407b138f8b.png</filename>
+    <path>/mnt/data/7572e6da-02be-4670-9b8e-b1407b138f8b.png</path>
+    <size>
+        <width>485</width>
+        <height>703</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>markers</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>120</ymin>
+            <xmax>440</xmax>
+            <ymax>630</ymax>
+        </bndbox>
+    </object>
+</annotation>

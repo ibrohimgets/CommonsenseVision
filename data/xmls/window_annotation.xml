@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>c074c958-cf66-441d-94f7-ee29266255b2.png</filename>
+    <path>/mnt/data/c074c958-cf66-441d-94f7-ee29266255b2.png</path>
+    <size>
+        <width>435</width>
+        <height>623</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>window</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>80</xmin>
+            <ymin>120</ymin>
+            <xmax>360</xmax>
+            <ymax>510</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>110</xmin>
+            <ymin>400</ymin>
+            <xmax>190</xmax>
+            <ymax>470</ymax>
+        </bndbox>
+    </object>
+</annotation>

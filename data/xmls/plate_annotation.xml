@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>464bc2c6-6174-4070-98ae-5e38e6bbbd1d.png</filename>
+    <path>/mnt/data/464bc2c6-6174-4070-98ae-5e38e6bbbd1d.png</path>
+    <size>
+        <width>458</width>
+        <height>617</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>plate</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>120</xmin>
+            <ymin>440</ymin>
+            <xmax>340</xmax>
+            <ymax>510</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,12 @@
+__pycache__/
+*.pt
+*.jpg
+*.png
+*.log
+.DS_Store
+*.ipynb_checkpoints
+.env
+
+# Keep only trait config JSONs
+*.json
+!configs/*.json

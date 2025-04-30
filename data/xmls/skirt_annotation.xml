@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>a95323ba-0998-4760-918c-fc61911719ee.png</filename>
+    <path>/mnt/data/a95323ba-0998-4760-918c-fc61911719ee.png</path>
+    <size>
+        <width>370</width>
+        <height>707</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>skirt</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>260</ymin>
+            <xmax>290</xmax>
+            <ymax>600</ymax>
+        </bndbox>
+    </object>
+</annotation>

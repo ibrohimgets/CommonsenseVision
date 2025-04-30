@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>cdc05566-bd6d-4651-9cb7-d8f4b83a4ccb.png</filename>
+    <path>/mnt/data/cdc05566-bd6d-4651-9cb7-d8f4b83a4ccb.png</path>
+    <size>
+        <width>805</width>
+        <height>668</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>trash_can</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>260</xmin>
+            <ymin>150</ymin>
+            <xmax>500</xmax>
+            <ymax>610</ymax>
+        </bndbox>
+    </object>
+</annotation>

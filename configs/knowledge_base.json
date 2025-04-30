@@ -1,0 +1,733 @@
+{
+  "writing tools": {
+    "pen": [
+      "Used for writing on paper",
+      "Contains ink",
+      "Has a pointed tip",
+      "Found on office desks",
+      "Common in schools and workplaces"
+    ],
+    "pencil": [
+      "Used for sketching and writing",
+      "Contains graphite core",
+      "Sharpened to a fine point",
+      "Found in classrooms",
+      "Erasable when needed"
+    ],
+    "marker": [
+      "Used for bold writing",
+      "Contains thick permanent ink",
+      "Often used on whiteboards",
+      "Found in meeting rooms",
+      "Comes in bright colors"
+    ],
+    "highlighter": [
+      "Used to emphasize text",
+      "Contains neon ink",
+      "Often yellow, green, or pink",
+      "Found in study environments",
+      "Helps in reviewing"
+    ],
+    "gel pen": [
+      "Used for smooth handwriting",
+      "Contains vibrant gel ink",
+      "Dries slower than regular pens",
+      "Found in offices and classrooms",
+      "Comes in many colors"
+    ],
+    "mechanical pencil": [
+      "Used for precise writing",
+      "Contains thin lead refills",
+      "No sharpening needed",
+      "Found with students and engineers",
+      "Popular for note-taking"
+    ],
+    "erasable pen": [
+      "Used for drafting and notes",
+      "Contains erasable ink",
+      "Looks like a regular pen",
+      "Found in classrooms",
+      "Useful for corrections"
+    ],
+    "sharpie": [
+      "Used for labeling items",
+      "Contains permanent ink",
+      "Bold and thick writing",
+      "Found in offices and warehouses",
+      "Difficult to erase"
+    ],
+    "stylus": [
+      "Used for touchscreen interaction",
+      "Made of plastic or metal",
+      "Looks like a pen",
+      "Found near tablets and phones",
+      "Common in tech setups"
+    ],
+    "paintbrush": [
+      "Used for painting",
+      "Has bristles and a wooden or plastic handle",
+      "Used with paints",
+      "Found in art studios",
+      "Essential for artists"
+    ]
+  },
+  "reading materials": {
+    "book": [
+      "Used for reading stories or information",
+      "Contains printed pages",
+      "Bound with covers",
+      "Found in libraries and homes",
+      "Fiction or nonfiction"
+    ],
+    "notebook": [
+      "Used for writing notes",
+      "Contains lined or blank pages",
+      "Spiral or bound",
+      "Found in classrooms",
+      "Carried by students"
+    ],
+    "textbook": [
+      "Used for academic learning",
+      "Contains educational chapters",
+      "Heavier than regular books",
+      "Found in schools",
+      "Often referenced during study"
+    ],
+    "magazine": [
+      "Used for casual reading",
+      "Printed on glossy paper",
+      "Contains articles and images",
+      "Found in cafes and waiting rooms",
+      "Published monthly"
+    ],
+    "newspaper": [
+      "Used for delivering daily news",
+      "Printed on thin paper",
+      "Folded into sections",
+      "Found in homes and stations",
+      "Covers local and global events"
+    ],
+    "comic book": [
+      "Used for visual storytelling",
+      "Combines pictures and dialogue",
+      "Printed in colorful panels",
+      "Found in bookstores",
+      "Popular with kids and adults"
+    ],
+    "manual": [
+      "Used for instructions",
+      "Contains steps and diagrams",
+      "Guides usage of products",
+      "Found inside product boxes",
+      "Useful for troubleshooting"
+    ],
+    "e-book reader": [
+      "Used for reading digital books",
+      "Has electronic screen",
+      "Lightweight and portable",
+      "Found in tech-savvy homes",
+      "Popular for travel reading"
+    ],
+    "journal": [
+      "Used for recording daily thoughts",
+      "Contains blank or dated pages",
+      "Encourages reflection",
+      "Found on desks or nightstands",
+      "Personal or academic use"
+    ],
+    "study guide": [
+      "Used for exam preparation",
+      "Summarized academic material",
+      "Often includes practice questions",
+      "Found with students",
+      "Condensed and efficient"
+    ]
+  },
+  "food": {
+  "apple": [
+    "Used as a healthy snack",
+    "Has smooth red or green skin",
+    "Sweet or tart flavor",
+    "Found in fruit bowls and markets",
+    "Rich in vitamins"
+  ],
+  "banana": [
+    "Used for quick energy",
+    "Yellow peel with soft flesh",
+    "Sweet taste",
+    "Found in kitchens and cafeterias",
+    "Popular for breakfast"
+  ],
+  "sandwich": [
+    "Used as a meal or snack",
+    "Two slices of bread with fillings",
+    "Variety of ingredients inside",
+    "Found in cafes and lunchboxes",
+    "Portable and customizable"
+  ],
+  "pizza slice": [
+    "Used as a savory meal",
+    "Flatbread topped with cheese and sauce",
+    "Eaten with hands",
+    "Found at parties and restaurants",
+    "Popular fast food"
+  ],
+  "cookie": [
+    "Used as a sweet treat",
+    "Small baked snack",
+    "Often contains chocolate chips",
+    "Found in bakeries and homes",
+    "Crunchy or soft texture"
+  ],
+  "chocolate bar": [
+    "Used as a sweet snack",
+    "Made from cocoa",
+    "Wrapped individually",
+    "Found in stores and vending machines",
+    "Melts easily"
+  ],
+  "noodles": [
+    "Used as a main dish",
+    "Long and thin pasta",
+    "Served in soups or stir-fried",
+    "Found in Asian restaurants",
+    "Eaten with chopsticks or forks"
+  ],
+  "burger": [
+    "Used as a main meal",
+    "Patty inside a bun",
+    "Contains meat, cheese, and veggies",
+    "Found in fast food outlets",
+    "Handheld convenience"
+  ],
+  "carrot": [
+    "Used as a healthy vegetable",
+    "Orange and crunchy",
+    "Eaten raw or cooked",
+    "Found in kitchens and markets",
+    "Good for eyesight"
+  ],
+  "orange": [
+    "Used for refreshing snack",
+    "Juicy citrus fruit",
+    "Rich in vitamin C",
+    "Found in fruit baskets",
+    "Peeled before eating"
+  ]
+},
+"utensils": {
+  "fork": [
+    "Used for picking up food",
+    "Has multiple prongs",
+    "Made of metal or plastic",
+    "Found in kitchens and restaurants",
+    "Part of standard cutlery"
+  ],
+  "spoon": [
+    "Used for scooping food",
+    "Bowl-shaped end",
+    "Made of metal or plastic",
+    "Found in dining settings",
+    "Used for soup and dessert"
+  ],
+  "knife": [
+    "Used for cutting food",
+    "Sharp-edged blade",
+    "Made of metal",
+    "Found in kitchens",
+    "Part of cutlery sets"
+  ],
+  "chopsticks": [
+    "Used for eating Asian dishes",
+    "Pair of wooden or metal sticks",
+    "Requires hand coordination",
+    "Found in Asian restaurants",
+    "Reusable or disposable"
+  ],
+  "spork": [
+    "Used as fork and spoon combo",
+    "Hybrid utensil",
+    "Made of plastic or metal",
+    "Found in cafeterias",
+    "Useful for camping"
+  ],
+  "tray": [
+    "Used for carrying food items",
+    "Flat surface with edges",
+    "Plastic, metal, or wood",
+    "Found in cafeterias and homes",
+    "Helps serve multiple items"
+  ],
+  "salad fork": [
+    "Used for eating salads",
+    "Shorter and wider prongs",
+    "Made of metal",
+    "Found in dining setups",
+    "Part of fine dining"
+  ],
+  "tea spoon": [
+    "Used for stirring drinks",
+    "Small and round",
+    "Made of metal",
+    "Found with tea sets",
+    "Used with desserts too"
+  ],
+  "dinner fork": [
+    "Used for main courses",
+    "Standard-sized prongs",
+    "Made of metal",
+    "Found in dinner table settings",
+    "Part of formal dining"
+  ],
+  "plastic fork": [
+    "Used for casual dining",
+    "Made of lightweight plastic",
+    "Disposable",
+    "Found at parties and picnics",
+    "Convenient and cheap"
+  ]
+},
+"clothing": {
+  "shirt": [
+    "Used for upper body clothing",
+    "Has sleeves and buttons",
+    "Made of cotton or polyester",
+    "Found in closets",
+    "Worn casually or formally"
+  ],
+  "jacket": [
+    "Used for warmth and style",
+    "Has zipper or buttons",
+    "Made of thick fabric",
+    "Found in coat racks",
+    "Worn in cold weather"
+  ],
+  "sweater": [
+    "Used for staying warm",
+    "Knitted fabric",
+    "Soft and thick",
+    "Found in winter wardrobes",
+    "Worn over shirts"
+  ],
+  "jeans": [
+    "Used as durable pants",
+    "Made of denim",
+    "Usually blue-colored",
+    "Found in every wardrobe",
+    "Worn casually"
+  ],
+  "t-shirt": [
+    "Used as casual clothing",
+    "Short sleeves",
+    "Made of cotton",
+    "Found in drawers and closets",
+    "Light and breathable"
+  ],
+  "pants": [
+    "Used for covering legs",
+    "Formal or casual fabric",
+    "Various styles and fits",
+    "Found in closets",
+    "Worn for work or casual outings"
+  ],
+  "shoes": [
+    "Used for foot protection",
+    "Made of leather or fabric",
+    "Various types like sneakers",
+    "Found at entrances",
+    "Essential for daily wear"
+  ],
+  "hat": [
+    "Used for head covering",
+    "Blocks sun or for style",
+    "Made of fabric or straw",
+    "Found in wardrobes",
+    "Worn outdoors"
+  ],
+  "shorts": [
+    "Used for warm weather wear",
+    "Short leg coverings",
+    "Made of light fabric",
+    "Found in summer wardrobes",
+    "Worn casually"
+  ],
+  "dress": [
+    "Used as a full outfit",
+    "Covers torso and legs",
+    "Made of various fabrics",
+    "Found in women's closets",
+    "Worn for events or daily life"
+  ]
+},"animals": {
+  "cat": [
+    "Used as domestic pet",
+    "Covered in soft fur",
+    "Makes meow sound",
+    "Found in homes",
+    "Loves sleeping"
+  ],
+  "dog": [
+    "Used as companion animal",
+    "Covered in fur",
+    "Makes bark sound",
+    "Found in homes and parks",
+    "Very loyal"
+  ],
+  "horse": [
+    "Used for riding or farm work",
+    "Large with hooves",
+    "Strong and fast",
+    "Found on farms or ranches",
+    "Symbol of strength"
+  ],
+  "cow": [
+    "Used for milk production",
+    "Large farm animal",
+    "Has horns",
+    "Found in fields",
+    "Eats grass"
+  ],
+  "sheep": [
+    "Used for wool production",
+    "Covered in thick wool",
+    "Makes baa sound",
+    "Found in pastures",
+    "Grazes in herds"
+  ],
+  "chicken": [
+    "Used for egg production",
+    "Small feathered bird",
+    "Clucks loudly",
+    "Found on farms",
+    "Pecks the ground"
+  ],
+  "elephant": [
+    "Used for transport historically",
+    "Huge with trunk",
+    "Very intelligent",
+    "Found in safaris and zoos",
+    "Strong and social"
+  ],
+  "tiger": [
+    "Used in wildlife conservation",
+    "Striped fur",
+    "Powerful predator",
+    "Found in jungles",
+    "Carnivorous"
+  ],
+  "fish": [
+    "Used as pet or food source",
+    "Lives in water",
+    "Breathes through gills",
+    "Found in aquariums",
+    "Varies in size"
+  ],
+  "bird": [
+    "Used for companionship or observation",
+    "Has feathers and wings",
+    "Can fly",
+    "Found in parks and forests",
+    "Builds nests"
+  ]
+},
+"transportation": {
+  "car": [
+    "Used for personal travel",
+    "Four wheels and engine",
+    "Carries people",
+    "Found on roads and garages",
+    "Private transportation"
+  ],
+  "bus": [
+    "Used for public travel",
+    "Large vehicle",
+    "Carries many people",
+    "Found in cities",
+    "Stops at designated stations"
+  ],
+  "bicycle": [
+    "Used for eco-friendly travel",
+    "Two wheels",
+    "Pedal-powered",
+    "Found on streets and parks",
+    "Good for exercise"
+  ],
+  "motorcycle": [
+    "Used for fast travel",
+    "Two wheels",
+    "Powered by motor",
+    "Found on roads",
+    "Popular for solo travelers"
+  ],
+  "truck": [
+    "Used for transporting goods",
+    "Large vehicle",
+    "Has cargo space",
+    "Found on highways",
+    "Used in deliveries"
+  ],
+  "train": [
+    "Used for long distance travel",
+    "Runs on tracks",
+    "Carries passengers and cargo",
+    "Found at stations",
+    "Efficient for cities"
+  ],
+  "airplane": [
+    "Used for air travel",
+    "Wings and engines",
+    "Carries many passengers",
+    "Found at airports",
+    "Flies long distances"
+  ],
+  "boat": [
+    "Used for water travel",
+    "Floats on water",
+    "Carries people or goods",
+    "Found in harbors",
+    "Powered by oars or motor"
+  ],
+  "subway": [
+    "Used for underground travel",
+    "Electric trains",
+    "Fast and efficient",
+    "Found in cities",
+    "Stops at underground stations"
+  ],
+  "scooter": [
+    "Used for short distance travel",
+    "Two-wheeled",
+    "Manual or electric",
+    "Found in urban areas",
+    "Easy to ride"
+  ]
+},
+"devices": {
+  "phone": [
+    "Used for communication",
+    "Touchscreen device",
+    "Portable and small",
+    "Found in pockets and bags",
+    "Runs apps and calls"
+  ],
+  "laptop": [
+    "Used for computing",
+    "Portable computer",
+    "Keyboard and screen",
+    "Found on desks",
+    "Used for work and study"
+  ],
+  "tablet": [
+    "Used for media and reading",
+    "Touchscreen slab",
+    "Larger than phones",
+    "Found in homes",
+    "Good for casual use"
+  ],
+  "smartwatch": [
+    "Used for fitness tracking",
+    "Worn on wrist",
+    "Connects to phone",
+    "Found on wrists",
+    "Monitors health"
+  ],
+  "flashlight": [
+    "Used for providing light",
+    "Portable and handheld",
+    "Uses batteries or charging",
+    "Found in emergency kits",
+    "Often used in dark or outdoor settings"
+  ],
+  "desktop computer": [
+    "Used for powerful computing",
+    "Stationary setup",
+    "Has monitor and CPU",
+    "Found in offices",
+    "Used for work and gaming"
+  ],
+  "camera": [
+    "Used for photography",
+    "Lens and sensor",
+    "Captures images",
+    "Found with photographers",
+    "Used indoors and outdoors"
+  ],
+  "earphones": [
+    "Used for listening to audio",
+    "Small and portable",
+    "Placed in ears",
+    "Found with phones",
+    "Wireless or wired"
+  ],
+  "monitor": [
+    "Used for displaying visuals",
+    "Screen device",
+    "Connected to computers",
+    "Found on desks",
+    "Varies in size"
+  ],
+  "printer": [
+    "Used for printing documents",
+    "Uses ink and paper",
+    "Connects to computers",
+    "Found in offices",
+    "Prints color or black and white"
+  ],
+  "mouse": [
+    "Used for navigating computers",
+    "Handheld device",
+    "Moves pointer",
+    "Found next to keyboards",
+    "Essential for desktops"
+  ]
+},
+"furniture": {
+  "chair": [
+    "Used for sitting",
+    "Four legs and backrest",
+    "Made of wood or metal",
+    "Found in homes and offices",
+    "Essential seating item"
+  ],
+  "table": [
+    "Used for placing items",
+    "Flat surface with legs",
+    "Made of wood, glass, or metal",
+    "Found in kitchens and offices",
+    "Used for eating or work"
+  ],
+  "sofa": [
+    "Used for relaxing",
+    "Cushioned seating",
+    "Seats multiple people",
+    "Found in living rooms",
+    "Comfortable for lounging"
+  ],
+  "bed": [
+    "Used for sleeping",
+    "Has mattress and frame",
+    "Found in bedrooms",
+    "Covered with sheets",
+    "Essential for rest"
+  ],
+  "desk": [
+    "Used for working or studying",
+    "Flat working surface",
+    "May have drawers",
+    "Found in offices and homes",
+    "Pairs with chairs"
+  ],
+  "bookshelf": [
+    "Used for storing books",
+    "Multiple shelves",
+    "Made of wood or metal",
+    "Found in homes and libraries",
+    "Organizes reading materials"
+  ],
+  "dresser": [
+    "Used for storing clothes",
+    "Multiple drawers",
+    "Wooden or plastic",
+    "Found in bedrooms",
+    "Holds folded clothing"
+  ],
+  "wardrobe": [
+    "Used for hanging clothes",
+    "Tall cabinet",
+    "Has doors",
+    "Found in bedrooms",
+    "Organizes outfits"
+  ],
+  "stool": [
+    "Used for sitting",
+    "Backless seat",
+    "Portable and small",
+    "Found in kitchens or bars",
+    "Compact seating option"
+  ],
+  "cabinet": [
+    "Used for storing items",
+    "Enclosed shelves",
+    "Made of wood or metal",
+    "Found in kitchens and bathrooms",
+    "Stores utensils and supplies"
+  ]
+  
+}
+,
+
+  "travel_tools": {
+    "suitcase": [
+      "Used for carrying personal belongings during travel",
+      "Typically has wheels and a handle",
+      "Comes in various sizes for different travel needs",
+      "Can be hard or soft-sided",
+      "Found in airports, train stations, and hotels"
+    ],
+    "backpack": [
+      "Used for carrying items on the back",
+      "Adjustable shoulder straps",
+      "Can be used for both travel and daily commuting",
+      "Often used for hiking and backpacking",
+      "Commonly used by students and travelers"
+    ],
+    "travel_pillow": [
+      "Used to support the neck while sleeping during travel",
+      "Soft and inflatable or foam",
+      "Perfect for long flights or car trips",
+      "Portable and lightweight",
+      "Provides comfort during travel"
+    ],
+    "luggage_tag": [
+      "Used to identify luggage during travel",
+      "Typically attached to a suitcase handle",
+      "Contains contact information",
+      "Available in various designs and sizes",
+      "Helps to identify personal belongings in crowded areas"
+    ],
+    "travel_wallet": [
+      "Used for organizing travel documents, cards, and cash",
+      "Compact and easy to carry",
+      "Usually made of leather or fabric",
+      "Often has sections for passports, tickets, and currency",
+      "Ideal for organizing essential travel documents"
+    ],
+    "water_bottle": [
+      "Used for carrying water or beverages during travel",
+      "Keeps liquids cool or warm for extended periods",
+      "Available in plastic, stainless steel, or glass",
+      "Portable and reusable",
+      "Commonly used by travelers to stay hydrated"
+    ],
+    "passport_holder": [
+      "Used to store passports and travel documents securely",
+      "Keeps documents safe and organized",
+      "Compact and often includes card holders",
+      "Often made from durable materials like leather",
+      "Protects sensitive information during travel"
+    ],
+    "rolling_bag": [
+      "Small suitcase with wheels for easy transport",
+      "Often used for short trips or as a carry-on bag",
+      "More compact than full-sized luggage",
+      "Lightweight and convenient for quick access to items",
+      "Commonly used for business or weekend trips"
+    ],
+    "travel_adapter": [
+      "Used to charge electronic devices in different countries",
+      "Converts plug shapes for international outlets",
+      "Compact and portable",
+      "Essential for travelers using electronics in foreign countries",
+      "Compatible with various plug types (Type A, B, C, etc.)"
+    ],
+    "sleep_mask": [
+      "Worn over the eyes to block out light",
+      "Helps with sleeping during travel, especially on planes",
+      "Often made from soft fabrics like cotton or silk",
+      "Compact and portable for travel bags",
+      "Provides better sleep quality while on the move"
+    ]
+  }
+}
+
+

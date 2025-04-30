@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>fa8197d0-c83c-4f6d-83ec-1ff7b97e9278.png</filename>
+    <path>/mnt/data/fa8197d0-c83c-4f6d-83ec-1ff7b97e9278.png</path>
+    <size>
+        <width>349</width>
+        <height>515</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>wallet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>100</xmin>
+            <ymin>140</ymin>
+            <xmax>270</xmax>
+            <ymax>300</ymax>
+        </bndbox>
+    </object>
+</annotation>

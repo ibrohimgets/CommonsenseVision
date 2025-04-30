@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>cdb38a01-1f23-4848-b8b3-1384ef48e0b9.png</filename>
+    <path>/mnt/data/cdb38a01-1f23-4848-b8b3-1384ef48e0b9.png</path>
+    <size>
+        <width>650</width>
+        <height>264</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sunglasses</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>60</ymin>
+            <xmax>580</xmax>
+            <ymax>200</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>7b5662bb-6f61-4025-abe9-eda6356aff9f.png</filename>
+    <path>/mnt/data/7b5662bb-6f61-4025-abe9-eda6356aff9f.png</path>
+    <size>
+        <width>679</width>
+        <height>618</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>stapler</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>130</xmin>
+            <ymin>140</ymin>
+            <xmax>600</xmax>
+            <ymax>520</ymax>
+        </bndbox>
+    </object>
+</annotation>

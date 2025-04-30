@@ -1,0 +1,22 @@
+<annotation>
+    <folder>images</folder>
+    <filename>Screenshot_2025-04-29_at_9.39.35_PM.png</filename>
+    <size>
+        <width>1078</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>suitcase</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>100</xmin>
+            <ymin>180</ymin>
+            <xmax>520</xmax>
+            <ymax>1020</ymax>
+                
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>49a55e17-18d4-4226-8d39-eb01f44beceb.png</filename>
+    <path>/mnt/data/49a55e17-18d4-4226-8d39-eb01f44beceb.png</path>
+    <size>
+        <width>487</width>
+        <height>527</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>board</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>30</ymin>
+            <xmax>455</xmax>
+            <ymax>250</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>plant</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>220</xmin>
+            <ymin>260</ymin>
+            <xmax>480</xmax>
+            <ymax>520</ymax>
+        </bndbox>
+    </object>
+</annotation>

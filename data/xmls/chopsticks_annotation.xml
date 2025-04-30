@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>2dac87d9-9808-4aee-a094-193e95a7e80d.png</filename>
+    <path>/mnt/data/2dac87d9-9808-4aee-a094-193e95a7e80d.png</path>
+    <size>
+        <width>467</width>
+        <height>687</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>edamame_bowl</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>110</xmin>
+            <ymin>380</ymin>
+            <xmax>360</xmax>
+            <ymax>610</ymax>
+        </bndbox>
+    </object>
+</annotation>

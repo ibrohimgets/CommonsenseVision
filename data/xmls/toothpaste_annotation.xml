@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>429f1930-4e4d-49e7-9883-a1de6fbcb269.png</filename>
+    <path>/mnt/data/429f1930-4e4d-49e7-9883-a1de6fbcb269.png</path>
+    <size>
+        <width>357</width>
+        <height>705</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>toothpaste</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>90</ymin>
+            <xmax>310</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>lighter</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>70</xmin>
+            <ymin>240</ymin>
+            <xmax>150</xmax>
+            <ymax>500</ymax>
+        </bndbox>
+    </object>
+</annotation>

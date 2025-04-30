@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>10ad2d46-7ba5-4513-8597-181be667d90a.png</filename>
+    <path>/mnt/data/10ad2d46-7ba5-4513-8597-181be667d90a.png</path>
+    <size>
+        <width>443</width>
+        <height>567</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pants</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>130</xmin>
+            <ymin>100</ymin>
+            <xmax>330</xmax>
+            <ymax>540</ymax>
+        </bndbox>
+    </object>
+</annotation>

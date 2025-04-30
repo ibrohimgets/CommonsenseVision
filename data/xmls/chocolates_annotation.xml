@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ca515b9a-c7f2-477a-8a96-0b450f6e90c9.png</filename>
+    <path>/mnt/data/ca515b9a-c7f2-477a-8a96-0b450f6e90c9.png</path>
+    <size>
+        <width>1064</width>
+        <height>573</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>chocolates</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>40</xmin>
+            <ymin>60</ymin>
+            <xmax>1020</xmax>
+            <ymax>520</ymax>
+        </bndbox>
+    </object>
+</annotation>

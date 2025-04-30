@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>569d00b3-57a9-4f88-8dba-e4a30c67200a.png</filename>
+    <path>/mnt/data/569d00b3-57a9-4f88-8dba-e4a30c67200a.png</path>
+    <size>
+        <width>267</width>
+        <height>401</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>earphones</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>60</ymin>
+            <xmax>220</xmax>
+            <ymax>350</ymax>
+        </bndbox>
+    </object>
+</annotation>
