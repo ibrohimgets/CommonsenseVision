@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Commonsense-Guided Open-World Object Detection"
+authors:
+  - family-names: Muminov
+    given-names: Ibrohim
+  - family-names: Kim
+    given-names: Jihie
+date-released: 2025-04-30
+url: "https://github.com/ibrohimgets/CommonsenseVision"
+version: "1.0.0"
+repository-code: "https://github.com/ibrohimgets/CommonsenseVision"
+license: MIT
+keywords:
+  - object detection
+  - commonsense reasoning
+  - YOLOv8
+  - CLIP
+  - LLaVA
+  - vision-language
+  - open-world AI
